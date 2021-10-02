@@ -2792,6 +2792,7 @@ It is worth mentioning some resources to help you get started:
   - [Lyft's React-To-TypeScript conversion CLI](https://github.com/lyft/react-javascript-to-typescript-transform)
   - [Gustav Wengel's blogpost - converting a React codebase to TypeScript](http://www.gustavwengel.dk/converting-typescript-to-javascript-part-1)
   - [Microsoft React TypeScript conversion guide](https://github.com/Microsoft/TypeScript-React-Conversion-Guide#typescript-react-conversion-guide)
+  - [React + Typescript: some habits you are going to get](https://medium.com/@elenasufieva/react-typescript-some-habits-you-are-going-to-get-1994523cda48)
 - [You?](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/issues/new).
 
 <!--END-SECTION:resources-->
